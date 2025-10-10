@@ -6,6 +6,11 @@ Grupo de Innovación Docente (GID) que xunta a profesorado das materias de progr
 ## Recursos
 
 - [Tutor de Python guiado (GPT)](https://chatgpt.com/g/g-6851564e1af8819188bfcbeed5f3d16a-tutor-de-python-guiado).
+- [Guías de programación (metodología)](https://github.com/GID-IAXPRO/guias-programacion).
+
+## Cursos/Charlas/Conferencias
+
+- 2025.07. [Curso](https://github.com/GID-IAXPRO/2025-curso-vibecoding) _Vibe coding con sentidiño: emprego de ferramentas de IA xerativa no desenvolvemento de software_. Daniel González Peña y Hugo López Fernández.
 
 ## References
 
