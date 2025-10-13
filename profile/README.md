@@ -10,8 +10,9 @@ Grupo de Innovación Docente (GID) que xunta a profesorado das materias de progr
 
 ## Cursos/Charlas/Conferencias
 
-- M.J. Lado Touriño, L. Rodríguez Liñares, P. Cuesta Morales. Taller de Inteligencia Artificial. X Congreso Internacional de Transparencia y Gobierno Abierto. 24-27 de septiembre de 2025, Castellón.
-- D. Glez-Peña, H. López Fernández. [Curso](https://github.com/GID-IAXPRO/2025-curso-vibecoding) _Vibe coding con sentidiño: emprego de ferramentas de IA xerativa no desenvolvemento de software_. 15-17 de julio de 2025, Ourense.
+- M.J. Lado Touriño, L. Rodríguez Liñares, P. Cuesta Morales. Taller de Inteligencia Artificial. X Congreso Internacional de Transparencia y Gobierno Abierto. 24-27 de setembro de 2025, Castellón.
+- D. Glez-Peña, H. López Fernández. [Curso](https://github.com/GID-IAXPRO/2025-curso-vibecoding) _Vibe coding con sentidiño: emprego de ferramentas de IA xerativa no desenvolvemento de software_. 15-17 de xullo de 2025, Ourense.
+- P. Cuesta Morales. Curso _Métodos e recursos para a aplicación da Intelixencia Artificial á docencia e investigación_. 24 de xuño-3 de xullo de 2025, Ourense.
 
 ## References
 
